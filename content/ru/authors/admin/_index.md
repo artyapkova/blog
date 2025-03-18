@@ -35,18 +35,19 @@ profiles:
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
 
-interests:
-  - ИИ
-  - Менеджмент
-  - Спортзал
+interests: 
+  - Теоретическая математика
+  - Анализ данных
+  - Астрономия
+  - Волейбол
 
 education:
   - area: Student
     institution: RUDN
     date_start: 2024-09-01
     date_end: 2028-05-31
-    summary: 
-      
+    summary: Изучаю математику и механику, интересуюсь аналитикой данных, теоретическими исследованиями и математическим моделированием.
+
 work:
   - position: Student
     company_name: RUDN
@@ -54,7 +55,7 @@ work:
     company_logo: ''
     date_start: 2024-09-01
     date_end: ''
-    summary: 
+    summary: Углубляюсь в математический анализ, алгебру и теоретическую механику.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -62,36 +63,38 @@ skills:
   - name: Хард скиллы
     items:
       - name: Python
-        description: ''
-        percent: 60
+        description: Использую для анализа данных и математического моделирования
+        percent: 65
         icon: code-bracket
-      - name: Переговоры
-        description: ''
-        percent: 80
+      - name: MATLAB
+        description: Работаю с математическими вычислениями
+        percent: 55
         icon: chart-bar
-      - name: DataScience
-        description: ''
-        percent: 40
+      - name: Линейная алгебра
+        description: Углубленные знания в теоретической и прикладной алгебре
+        percent: 75
         icon: circle-stack
   - name: Хобби
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Прогулки
-        description: ''
-        percent: 75
-      - name: Спортзал
-        description: ''
-        percent: 100
-      - name: Языки
-        description: ''
+      - name: Волейбол
+        description: Играю в университетской команде
+        percent: 85
+      - name: Астрономия
+        description: Изучаю космос и теоретическую физику
         percent: 80
+      - name: Настольные игры
+        description: Люблю логические и стратегические игры
+        percent: 70
 
 languages:
   - name: Русский
     percent: 100
   - name: Английский
-    percent: 60
+    percent: 70
+  - name: Французский
+    percent: 40
 
 # Awards.
 #   Add/remove as many awards below as you like.
